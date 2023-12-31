@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jared\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_build1.-1639291203.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Jared\Documents\DuckGame\Mods\JarvisMod" t="ExcludeRecursive">
+      <e p="build" t="IncludeRecursive">
+        <e p="build1.sln" t="IncludeFlat" />
+        <e p="mod.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages" t="ExcludeRecursive" />
+        <e p="src" t="Include">
+          <e p="blockActuator.cs" t="Include" />
+          <e p="InvisiWires.cs" t="Include" />
+          <e p="keyButton.cs" t="Include" />
+          <e p="MagneticLockDoor.cs" t="Include" />
+          <e p="Mod.cs" t="Include" />
+          <e p="randomizer.cs" t="Include" />
+          <e p="receiver.cs" t="Include" />
+          <e p="timer.cs" t="Include" />
+          <e p="transmitter.cs" t="Include" />
+          <e p="verticalWireBeam.cs" t="Include" />
+          <e p="wireBeam.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
